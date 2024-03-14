@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/datasets/stress-annotated-dataset-sad/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/datasets/stress-annotated-dataset-sad/"}
 ---
 
 
