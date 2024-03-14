@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/mental-bert/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/papers/mental-bert/"}
 ---
 
 #BERT #MentalBERT #MentalRoBERTa 
