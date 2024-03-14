@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/datasets/sncdl/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/datasets/sncdl/"}
 ---
 
 ### Deep learning for suicide and depression identification with unsupervised label correction
