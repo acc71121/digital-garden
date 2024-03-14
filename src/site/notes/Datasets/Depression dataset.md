@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/datasets/depression-dataset/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/datasets/depression-dataset/"}
 ---
 
 # Self-Reported Mental Health Diagnoses (SMHD) dataset
