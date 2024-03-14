@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/datasets/8datasets/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/datasets/8datasets/"}
 ---
 
 ### Identifying Depression on Reddit: The Effect of Training Data
