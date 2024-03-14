@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/menta-l-la-ma/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/papers/menta-l-la-ma/"}
 ---
 
 #LLM
