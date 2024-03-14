@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/report/","tags":["gardenEntry"]}
 ---
 
+
 ## [[Papers/! DepressionEmo\|! DepressionEmo]]
 
-#### Multilabel classification problem
+#### Multilabel classification problem_
 
 Used 4 pre-trained models for transfer learning:
 
