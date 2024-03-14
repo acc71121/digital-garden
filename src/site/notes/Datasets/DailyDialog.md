@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/datasets/daily-dialog/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/datasets/daily-dialog/"}
 ---
 
 http://yanran.li/dailydialog
