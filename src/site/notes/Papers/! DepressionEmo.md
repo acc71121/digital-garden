@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/depression-emo/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/papers/depression-emo/"}
 ---
 
 #SVM   #Light_GBM #XGBoost  #GAN-BERT #BERT #BART #DeBERTa
