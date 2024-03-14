@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/an-automated-tool-to-detect-suicidal-susceptibility-from-social-media-posts/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/papers/an-automated-tool-to-detect-suicidal-susceptibility-from-social-media-posts/"}
 ---
 
 Paper link: https://arxiv.org/pdf/2310.06056.pdf
