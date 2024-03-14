@@ -61,7 +61,6 @@ Used 4 pre-trained models for transfer learning:
 
 ## [[Papers/! An Automated Tool to Detect Suicidal Susceptibility from Social Media Posts\|! An Automated Tool to Detect Suicidal Susceptibility from Social Media Posts]]
 
-## [[Robin - A Novel Online Suicidal Text Corpus\|Robin - A Novel Online Suicidal Text Corpus]]
 ## [[Papers/CautionSuicide\|CautionSuicide]]
 ## [[Papers/Balanced and Explainable Analysis\|Balanced and Explainable Analysis]]
 
