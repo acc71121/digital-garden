@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/a-time-aware-transformer-based-model-for-suicide-ideation-detection-on-social-media/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/papers/a-time-aware-transformer-based-model-for-suicide-ideation-detection-on-social-media/"}
 ---
 
 
