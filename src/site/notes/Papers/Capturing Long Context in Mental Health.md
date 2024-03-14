@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/capturing-long-context-in-mental-health/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/papers/capturing-long-context-in-mental-health/"}
 ---
 
 #BERT #RoBERTa #XLNet #Longformer #ChatGPT #MentalBERT #MentalRoBERTa #MentalXLNet #MentalLongformer
