@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/read-diagnose-and-chat/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/papers/read-diagnose-and-chat/"}
 ---
 
 #LLM #OOD #COT #DSM5
