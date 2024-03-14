@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/datasets/tmdd/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/datasets/tmdd/"}
 ---
 
