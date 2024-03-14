@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/interpretable-mental-health-analysis/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/papers/interpretable-mental-health-analysis/"}
 ---
 
 Paper Link: https://arxiv.org/pdf/2304.03347.pdf
