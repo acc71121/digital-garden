@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/datasets/swmh/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/datasets/swmh/"}
 ---
 
 
