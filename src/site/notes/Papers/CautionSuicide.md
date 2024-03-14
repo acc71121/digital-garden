@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/caution-suicide/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/papers/caution-suicide/"}
 ---
 
 #GRU 
