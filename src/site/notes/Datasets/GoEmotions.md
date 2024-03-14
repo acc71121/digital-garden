@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/datasets/go-emotions/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/datasets/go-emotions/"}
 ---
 
 **GoEmotions** is a corpus of 58k carefully curated comments extracted from Reddit, with human annotations to 27 emotion categories or Neutral.
