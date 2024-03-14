@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/datasets/bldc/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/datasets/bldc/"}
 ---
 
 ### Binary labeled depression corpus of 60,000 English tweets
