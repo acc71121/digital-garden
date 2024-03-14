@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/datasets/mldc/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/datasets/mldc/"}
 ---
 
 
