@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/datasets/wu-3-d/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/datasets/wu-3-d/"}
 ---
 
 
