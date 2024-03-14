@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/datasets/suicide-and-depression-detection/","tags":["gardenEntry"]}
+---
+
+
+
+https://www.kaggle.com/datasets/nikhileswarkomati/suicide-watch
+
+## About Dataset
+
+### Content
+
+The dataset is a collection of posts from the "SuicideWatch" and "depression" subreddits of the Reddit platform. The posts are collected using Pushshift API. All posts that were made to "SuicideWatch" from Dec 16, 2008(creation) till Jan 2, 2021, were collected while "depression" posts were collected from Jan 1, 2009, to Jan 2, 2021. All posts collected from SuicideWatch are labeled as suicide, While posts collected from the depression subreddit are labeled as depression. Non-suicide posts are collected from r/teenagers.
+
+![Pasted image 20240305112905.png](/img/user/Images/Pasted%20image%2020240305112905.png)
+
+#dataset 
