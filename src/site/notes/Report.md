@@ -5,7 +5,7 @@
 
 ## [[Papers/! DepressionEmo\|! DepressionEmo]]
 
-#### Multilabel classification problem_
+#### Multilabel classification problem@_
 
 Used 4 pre-trained models for transfer learning:
 
