@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/hierarchical-bert-for-suicide-risk/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/papers/hierarchical-bert-for-suicide-risk/"}
 ---
 
 
