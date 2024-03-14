@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/papers/balanced-and-explainable-analysis/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/papers/balanced-and-explainable-analysis/"}
 ---
 
 Paper Link: https://arxiv.org/pdf/2309.05951.pdf
