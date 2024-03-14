@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/datasets/depression-emo-dataset/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/datasets/depression-emo-dataset/"}
 ---
 
 
